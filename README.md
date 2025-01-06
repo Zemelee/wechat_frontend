@@ -39,7 +39,7 @@ npm run electron #启动electron端
 npm run electron:build #打包electron端
 ```
 ## 运行后端
-请前往我们的[后端仓库](https://github.com/Zemelee/wechat_backtend/)了解详情。
+请前往我们的[后端仓库](https://github.com/Zemelee/wechat_backend/)了解详情。
 
 ## 项目技术栈
 ![alt text](./imgs/techs.png)
